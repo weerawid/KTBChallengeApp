@@ -1,0 +1,34 @@
+{
+    "status_code": 200,
+    "message": "Found information unread",
+    "uuid": "9D76AC74-B623-46E1-A28D-9E245654ED7B",
+    "detail": [
+        {
+            "uuid": "9d76ac74-b623-46e1-a28d-9e245654ed7b",
+            "account_no": "1234567890",
+            "account_type": "Savings",
+            "account_name": "Weerawid",
+            "account_main": "TRUE",
+            "current_balance": "40722.21",
+            "available_balance": "40722.21"
+        },
+        {
+            "uuid": "9d76ac74-b623-46e1-a28d-9e245654ed7b",
+            "account_no": "7330865724",
+            "account_type": "Savings",
+            "account_name": "Weera",
+            "account_main": "FALSE",
+            "current_balance": "13766",
+            "available_balance": "13000.11"
+        },
+        {
+            "uuid": "9d76ac74-b623-46e1-a28d-9e245654ed7b",
+            "account_no": "9590841635",
+            "account_type": "Savings",
+            "account_name": "Weerawid Niti",
+            "account_main": "FALSE",
+            "current_balance": "50",
+            "available_balance": "50"
+        }
+    ]
+}
