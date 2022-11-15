@@ -1,0 +1,62 @@
+{
+    "status_code": 200,
+    "message": "Found information unread",
+    "account_no": "1234567890",
+    "detail": [
+        {
+            "uuid": "6a9401a2-b656-4e9e-bc0b-a14a0b1d684e",
+            "account_no": "1234567890",
+            "datetime": "15/11/2022, 2:49:00",
+            "transaction_type": "Tranfer Out",
+            "amount": "-1600",
+            "dest_bank": "TMB Thanachart",
+            "dest_account": "5355024643",
+            "dest_acc_name": "Thana",
+            "dest_channel": "NEXT"
+        },
+        {
+            "uuid": "c50face4-b795-4155-bfb3-b47dd4730796",
+            "account_no": "1234567890",
+            "datetime": "15/11/2022, 3:43:00",
+            "transaction_type": "Tranfer In",
+            "amount": "10300",
+            "dest_bank": "TMB Thanachart",
+            "dest_account": "5355024643",
+            "dest_acc_name": "Thana",
+            "dest_channel": "NEXT"
+        },
+        {
+            "uuid": "160ce473-af26-4f6d-8b8e-e540d895acf6",
+            "account_no": "1234567890",
+            "datetime": "15/11/2022, 4:00:00",
+            "transaction_type": "Tranfer Out",
+            "amount": "2974",
+            "dest_bank": "TMB Thanachart",
+            "dest_account": "5355024643",
+            "dest_acc_name": "Thana",
+            "dest_channel": "NEXT"
+        },
+        {
+            "uuid": "00f77906-9be3-4553-829e-dbdc7b8ebd2c",
+            "account_no": "1234567890",
+            "datetime": "15/11/2022, 5:50:00",
+            "transaction_type": "Tranfer Out",
+            "amount": "30000",
+            "dest_bank": "TMB Thanachart",
+            "dest_account": "5355024643",
+            "dest_acc_name": "Thana",
+            "dest_channel": "NEXT"
+        },
+        {
+            "uuid": "7f25071d-46ec-4aeb-991e-e34689844253",
+            "account_no": "1234567890",
+            "datetime": "15/11/2022, 6:13:00",
+            "transaction_type": "Tranfer Out",
+            "amount": "6000",
+            "dest_bank": "TMB Thanachart",
+            "dest_account": "5355024643",
+            "dest_acc_name": "Thana",
+            "dest_channel": "NEXT"
+        }
+    ]
+}
