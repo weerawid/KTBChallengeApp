@@ -8,6 +8,7 @@
             "account_no": "9590841635",
             "datetime": "16/11/2022, 17:35:00",
             "transaction_type": "Tranfer In",
+            "transaction_type_th": "เงินโอนเข้า",
             "amount": "5000000",
             "dest_bank": "BAY Krungsri",
             "dest_account": "8971407610",
