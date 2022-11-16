@@ -1,1 +1,40 @@
-
+{
+    "status_code": 200,
+    "message": "Found information unread",
+    "account_no": "7330865724",
+    "detail": [
+        {
+            "uuid": "6a9401a2-b656-4e9e-bc0b-a14a0b1d684e",
+            "account_no": "1234567890",
+            "datetime": "16/11/2022, 15:34:00",
+            "transaction_type": "Tranfer Out",
+            "amount": "16500",
+            "dest_bank": "BAY Krungsri",
+            "dest_account": "8971407610",
+            "dest_acc_name": "Jaidee Meenoi",
+            "dest_channel": "NEXT"
+        },
+        {
+            "uuid": "6a9401a2-b656-4e9e-bc0b-a14a0b1d684e",
+            "account_no": "1234567890",
+            "datetime": "16/11/2022, 14:34:00",
+            "transaction_type": "Tranfer Out",
+            "amount": "-100000",
+            "dest_bank": "SCB The Siam Commercial Bank",
+            "dest_account": "8971407610",
+            "dest_acc_name": "Jaidee Meenoi",
+            "dest_channel": "NEXT"
+        },
+        {
+            "uuid": "6a9401a2-b656-4e9e-bc0b-a14a0b1d684e",
+            "account_no": "1234567890",
+            "datetime": "16/11/2022, 11:34:00",
+            "transaction_type": "Tranfer Out",
+            "amount": "4000",
+            "dest_bank": "BBL Bangkok Bank",
+            "dest_account": "0972637803",
+            "dest_acc_name": "SukJai Makmee",
+            "dest_channel": "NEXT"
+        }
+    ]
+}
