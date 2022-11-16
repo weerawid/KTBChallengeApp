@@ -5,7 +5,7 @@
     "detail": [
         {
             "uuid": "6a9401a2-b656-4e9e-bc0b-a14a0b1d684e",
-            "account_no": "1234567890",
+            "account_no": "7330865724",
             "datetime": "16/11/2022, 15:35:00",
             "transaction_type": "Tranfer In",
             "amount": "16500",
@@ -16,7 +16,7 @@
         },
         {
             "uuid": "6a9401a2-b656-4e9e-bc0b-a14a0b1d684e",
-            "account_no": "1234567890",
+            "account_no": "7330865724",
             "datetime": "16/11/2022, 14:34:00",
             "transaction_type": "Tranfer Out",
             "amount": "-100000",
@@ -27,7 +27,7 @@
         },
         {
             "uuid": "6a9401a2-b656-4e9e-bc0b-a14a0b1d684e",
-            "account_no": "1234567890",
+            "account_no": "7330865724",
             "datetime": "16/11/2022, 11:34:00",
             "transaction_type": "Tranfer In",
             "amount": "4000",
